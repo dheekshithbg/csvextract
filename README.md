@@ -1,2 +1,2 @@
 # csvextract
-Extraction of attributes from csv file.
+Extraction of attributes from an excel file.
